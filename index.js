@@ -1,3 +1,42 @@
+
+// (function () {
+// 	// 准备资源 A
+	// const context = document.getElementById('content').getContext('2d');
+	// const heroImg = new Image();
+
+// 	// 画图 B
+// 	heroImg.onload = function () {
+// 		var imgPos = {
+// 			x: 0,
+// 			y: 0,
+// 			width: 32,
+// 			height: 32
+// 		};
+
+// 		var rect = {
+// 			x: 0,
+// 			y: 0,
+// 			width: 40,
+// 			height: 40
+// 		};
+
+// 		context
+// 			.drawImage(
+// 				heroImg,
+// 				imgPos.x,
+// 				imgPos.y,
+// 				imgPos.width,
+// 				imgPos.height,
+// 				rect.x,
+// 				rect.y,
+// 				rect.width,
+// 				rect.height
+// 			);
+// 	};
+
+// 	heroImg.src = './hero.png';
+// })();
+
 //封装过的代码
 /*
  author： 准备资源
